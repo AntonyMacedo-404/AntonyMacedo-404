@@ -1,17 +1,21 @@
-## Bem vindo ao meu perfil ⚡
+## 👋 Olá! Seja bem-vindo ao meu perfil no GitHub
 
-**Meu nome é Antony**
+### 🙋‍♂️ Sobre mim
 
-- Estudo pela Alura,Youtube entre outros...
-- Estou me desenvolvendo na lingugagem **Python**
-- Utilizo esse espaço para meus projetos
+Meu nome é **Antony**, sou estudante e entusiasta de tecnologia.  
+Atualmente, estou me dedicando ao aprendizado da linguagem **Python**, explorando seu uso em projetos práticos.
 
-## Contatos 📫
+Estudo por meio de plataformas como **Alura**, **YouTube** e outras fontes online para me aprofundar cada vez mais nesse universo da programação.
 
-@realmacedo (Instagram)
+### 🚀 Objetivo
 
-![](https://media1.tenor.com/m/MA0Gb5pQJw0AAAAd/evil-laugh.gif)
+Este espaço é dedicado aos meus **projetos pessoais**, onde compartilho o que venho aprendendo e desenvolvendo no dia a dia.
 
+### 📫 Contato
 
+📷 Instagram: [@realmacedo](https://instagram.com/realmacedo)
 
+---
+
+Obrigado por visitar meu perfil! 😄
 
